@@ -42,7 +42,7 @@ AI×安全交叉研究（叠加 AI 维度）
 
 ## 🚀 快速开始
 
-### 方法一：安装 Skill（推荐在 WorkBuddy 中使用）
+### 方法一：安装 Skill（推荐在 Claude 中使用）
 
 1. 下载对应的 `.zip` 文件
 2. 在 WorkBuddy 的 Skill 管理中选择「导入本地 Skill」
