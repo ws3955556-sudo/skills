@@ -45,7 +45,7 @@ AI×安全交叉研究（叠加 AI 维度）
 ### 方法一：安装 Skill（推荐在 Claude 中使用）
 
 1. 下载对应的 `.zip` 文件
-2. 在 WorkBuddy 的 Skill 管理中选择「导入本地 Skill」
+2. 在 CC-switch 的 Skill 管理中选择「导入本地 Skill」
 3. 选择 zip 文件完成安装
 4. 安装后会根据 frontmatter 中的触发词自动激活
 
