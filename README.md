@@ -125,7 +125,6 @@ AI×安全交叉研究（叠加 AI 维度）
 
 ## 🛠 技术说明
 
-- 每个 Skill 采用 WorkBuddy Skill 标准结构：`SKILL.md` + `references/` 参考文件
 - `SKILL.md` 包含 frontmatter 元数据、功能定位、教学风格、文件调度表、交互模板
 - `references/` 目录包含原理讲解、实验指南、CTF 方法论、安全规则、案例研究等资料
 - Prompt 文件是 Skill 的独立版本，可直接粘贴到任意大模型使用
