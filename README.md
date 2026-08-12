@@ -294,6 +294,65 @@ AI×安全交叉研究（叠加 AI 维度）
 4. **想学实战**：用「应急响应助手」，记住口诀"先止血，再追凶"，从 Windows 排查四板斧入门
 5. **想了解前沿**：使用「AI×安全交叉研究」，从"AI 怎么帮安全"和"AI 会不会被骗"两个方向入门
 
+
+感谢您使用本仓库提供的网络安全教学 Skill。在使用本仓库任何内容（包括但不限于 Skill 文件、Prompt 文件、示例代码、实验指引、工具说明等）之前，请务必阅读并理解以下免责声明。**使用本仓库内容即表示您已阅读、理解并同意本免责声明的全部条款。**
+
+---
+
+## 一、教育目的声明
+
+1. 本仓库的全部内容**仅用于教育、学习、研究和合法的安全测试**，旨在帮助学习者理解网络安全原理、掌握攻防概念、熟悉安全工具的基础用法。
+2. 本仓库不鼓励、不教唆、不协助任何形式的**非法入侵、数据窃取、破坏系统、干扰网络正常运行**等违法行为。
+3. 所有实验指引均以**本地靶场环境**（如 DVWA、Metasploitable、VulnHub、CTF 平台等）为操作对象，不针对任何真实生产系统。
+
+## 二、合法使用要求
+
+使用本仓库内容进行任何操作前，您必须：
+
+1. **取得明确授权**：仅可对您**拥有所有权**或**获得书面授权**（如渗透测试授权书、实习/工作任务指派、CTF 平台明确许可）的系统、网络、资产进行测试。
+2. **遵守所在地法律**：遵守《中华人民共和国网络安全法》《中华人民共和国刑法》（第 285、286、287 条等）、《中华人民共和国数据安全法》《中华人民共和国个人信息保护法》以及您所在国家/地区的所有适用法律法规。
+3. **遵守平台规则**：遵守您所使用的靶场平台、CTF 平台、云服务商的使用条款与社区规范。
+4. **不越权操作**：授权范围外的系统、未授权的数据、他人的账号与设备，一律不得触碰。
+
+> ⚠️ **红线提醒**：未授权对他人系统进行扫描、探测、利用漏洞或获取数据，可能构成违法犯罪，面临行政处罚乃至刑事责任。**"我只是想试试"不是合法理由。**
+
+## 三、责任免除
+
+1. 本仓库内容按"**现状**"（AS IS）提供，作者不对内容的**准确性、完整性、时效性、适用性**作任何明示或暗示的保证。
+2. 因使用、误用、滥用本仓库内容而导致的**任何直接或间接损失**，包括但不限于数据丢失、系统损坏、业务中断、法律责任、经济损失等，**作者不承担任何责任**。
+3. 使用者应**自行判断**其行为的合法性与安全性，并**独立承担**因自身行为产生的一切后果。
+4. 若使用者将本仓库内容用于非法用途，由此产生的全部法律责任由使用者本人承担，与作者无关。
+
+## 四、版权声明
+
+1. 本仓库中的原创内容版权归作者所有，允许在注明出处的前提下，用于**个人学习、教学**等非商业用途。
+2. **商业使用、二次分发、修改后转售**等行为，需事先获得作者书面许可。
+3. 本仓库中引用的工具名称、商标、品牌（如 DVWA、Kali Linux、Burp Suite 等）均归其各自所有者所有，此处仅为教学说明之目的引用，不代表任何关联或认可关系。
+
+## 五、工具使用提示
+
+1. 本仓库中提到的安全工具（Nmap、Burp Suite、Metasploit、sqlmap 等）均为**双用途工具**——既可合法用于安全评估，也可被滥用。使用者应合法、正当地使用这些工具。
+2. 工具的安装与使用，请遵循工具官方文档及许可协议。
+3. 部分实验涉及虚拟化、网络配置等操作，请勿在**生产环境、办公网络、公共网络**中执行，避免影响他人或触发安全告警。
+
+## 六、关于 AI 生成内容
+
+1. 本仓库的部分内容可能由 AI 辅助生成，使用者应**自行核验**其中的技术细节与法律合规性。
+2. AI 输出的操作步骤、命令、代码存在出错可能，**执行前请确认理解每一步的作用**，建议先在隔离的虚拟机/靶场中验证。
+
+## 七、联系我们
+
+如对本仓库内容有任何疑问、发现错误，或需要获得商业授权，请通过 GitHub Issues 或 Pull Request 与我们联系。
+
+---
+
+## English Summary
+
+This repository is provided **for educational and research purposes only**. All content must only be used in **legally authorized environments** (e.g., your own systems, lab ranges, CTF platforms, or systems you have explicit written permission to test). Unauthorized access to computer systems is illegal in most jurisdictions, including under Chinese law (Criminal Law Articles 285/286/287, Cybersecurity Law, Data Security Law). The author provides this material "AS IS" without any warranty and **accepts no responsibility** for any misuse, damage, or legal consequences arising from the use of this repository. Users are solely responsible for ensuring their activities comply with all applicable laws and regulations.
+
+**By using this repository, you agree to the above terms.**
+
+
 ------
 
 *最后更新：2026-08-07*
